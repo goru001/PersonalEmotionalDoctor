@@ -1,0 +1,4 @@
+tmp/*
+models/*
+tok.pkl
+wiki.en.pkl
