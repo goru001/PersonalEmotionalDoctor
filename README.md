@@ -1,5 +1,7 @@
 # PersonalEmotionalDoctor
 
+My vision for this chat bot, named Personal Emotional Doctor, is of a friend who gives personalized counselling without being emotionally biased and judgemental, which are rare qualities in humans these days
+
 This is a Research project and is a Work in Progress.
 
 ## Background and Vision
